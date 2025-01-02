@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/static/v1?label=matplotlib-voice-in&message=0.0&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=2025words&message=0.0&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 # Daily writings for 2025 in LaTeX
 
@@ -12,8 +12,8 @@ Get clone the repository or download the zip file.
 Create a new project on Overleaf and drag the zip file to the upload menu.
 The zip file will be unpacked in a new project.
 
-In the menu pulldown, go to compiler and switch it to LauLatex, version 2024.
-The main document should be automatically set to main.tex.
+In the menu pulldown, go to `compiler` and switch it to `LauLatex`, version `2024`.
+The main document should be automatically set to `main.tex`.
 The doument will now compile in 5-10s with 12 chapters and 365 sections.
 
 Everything will be ready to go.
@@ -34,7 +34,7 @@ You can also run laulatex from the terminal.
 
 No all image file types are accepted (e.g., tiffs are not allowed)
 PDFs, PNGs, and JPEGs work well.
-The latter two have previews.
+The latter two types get previews in Overleaf.
 
 |Version      | Changes                                                                                                                                  | Date                 |
 |:-----------|:------------------------------------------------------------------------------------------------------------------------------------------|:--------------------|
