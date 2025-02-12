@@ -19,7 +19,7 @@ The document will now be compiled in 5-10 seconds, with 12 chapters and 365 sect
 Everything will be ready to go.
 You can paste your daily writing entries into the text file labeled 1January2025.tex.
 
-## Known imitations
+## Known limitations
 If your daily entries exceed 10,000 words, your project may become too large for Overleaf to compile.
 In October of 2024, I ran into this limitation. 
 
